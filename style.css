@@ -1,0 +1,11 @@
+body{
+	background:  #c3c3c3;
+}
+.layout-positioner{
+	width: 80%;
+	margin: 10px auto;
+}
+h1{
+	font-size:  32px;
+	text-align: center;
+}
